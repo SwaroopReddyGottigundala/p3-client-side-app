@@ -1,0 +1,79 @@
+#profile_pic{
+    border-radius: 50%;
+    max-width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    flex-basis: 20%;
+    float: center; 
+}
+.my-name{
+    font-family: 'Zhi Mang Xing', cursive;
+}
+.goa-image{
+    height: 300px;
+    width: 500px;
+    margin-right: auto;
+}
+
+.navLinks {
+    font-family: Poppins, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    margin: 0;
+    opacity: 0.70;
+    background-color: #db360dc7;
+    white-space: nowrap;
+}
+
+.navLinks li {
+    display: inline-block;    
+    padding: 0 25px 1px 25px;
+    font-size: 30px
+}
+
+.navLinks li a {
+    text-decoration: none;
+    color: rgb(221, 231, 229);
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.navLinks li a:hover {
+    color: rgb(18, 107, 240);
+    font-weight: bold; 
+}
+header {
+    padding: 20px auto 20px auto;
+    margin: 0px auto 0px auto;
+}
+aside a {
+    display: block;
+    padding: 20px 10px 20px 10px;
+    text-align: center;
+    border: 3px #0c0c0c solid;
+    border-radius: 4px;
+    margin: 3px;
+    text-decoration: none;
+    color: #454372;
+}
+
+aside a:hover {
+    background-color: #8bf3c8;
+}
+
+hr.new5 {
+    border-radius: 5px;
+    border-top:solid none none none;
+    border-top: 25px solid rgb(34, 33, 33);
+  }
+
+  h1{
+    text-align:center;
+   
+ }
+p{
+    text-align:center;
+}
